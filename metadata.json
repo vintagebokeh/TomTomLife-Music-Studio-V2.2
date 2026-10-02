@@ -1,0 +1,7 @@
+{
+  "name": "TomTomLife Music Studio V2.2",
+  "description": "Workflow-driven multi-engine music production studio supporting YuE2 and MiniMax Music 3 engines with clean human-facing Song Workspace, arrangement builder, and A/B comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
